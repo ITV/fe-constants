@@ -12,6 +12,6 @@
     "pr-comment": "2.4.5",
     "pnpm-release": "2.5.4",
     "verify-links": "2.4.6",
-    "gh-pr-body": "1.0.0",
+    "gh-pr-body": "1.0.1",
     "ephemeral-links": "1.0.0"
 }
