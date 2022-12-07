@@ -1,8 +1,8 @@
 {
-    "fe-core": "2.4.25",
+    "fe-core": "2.4.26",
     "ci-log": "2.4.7",
     "trigger-workflow": "2.4.4",
-    "trigger-failure": "2.4.4",
+    "trigger-failure": "2.4.5",
     "trigger-success": "2.4.4",
     "deps-tree": "2.4.12",
     "gh-app": "2.4.5",
