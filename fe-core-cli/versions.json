@@ -1,5 +1,5 @@
 {
-    "fe-core": "2.4.28",
+    "fe-core": "2.4.29",
     "ci-log": "2.4.7",
     "trigger-workflow": "2.4.4",
     "trigger-failure": "2.4.7",
@@ -11,7 +11,7 @@
     "gh-secret": "2.4.5",
     "pr-comment": "2.4.5",
     "pnpm-release": "2.5.4",
-    "verify-links": "2.4.9",
+    "verify-links": "2.4.10",
     "gh-pr-body": "1.0.1",
     "ephemeral-links": "1.0.1"
 }
