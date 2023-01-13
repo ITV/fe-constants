@@ -1,7 +1,7 @@
 {
-    "fe-core": "2.4.53",
+    "fe-core": "2.4.54",
     "ci-log": "2.4.8",
-    "trigger-workflow": "2.4.4",
+    "trigger-workflow": "2.4.5",
     "trigger-failure": "2.4.8",
     "trigger-success": "2.4.4",
     "deps-tree": "2.4.12",
