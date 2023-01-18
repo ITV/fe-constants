@@ -1,5 +1,5 @@
 {
-    "fe-core": "2.4.63",
+    "fe-core": "2.4.64",
     "ci-log": "2.4.9",
     "trigger-workflow": "2.4.5",
     "trigger-failure": "2.4.8",
@@ -20,7 +20,7 @@
     "combine-zips": "1.0.4",
     "bundle-size": "1.0.0",
     "gh-label": "1.0.0",
-    "gh-pr": "1.0.2",
+    "gh-pr": "1.0.3",
     "update-package-registry": "1.0.0",
     "mq-automation": "1.0.0"
 }
