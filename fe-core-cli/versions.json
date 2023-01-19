@@ -1,5 +1,5 @@
 {
-    "fe-core": "2.4.66",
+    "fe-core": "2.4.67",
     "ci-log": "2.4.9",
     "trigger-workflow": "2.4.5",
     "trigger-failure": "2.4.8",
@@ -16,11 +16,11 @@
     "ephemeral-links": "1.0.4",
     "cassandra-scripts": "1.0.7",
     "gh-release": "1.0.2",
-    "gh-status": "1.0.0",
+    "gh-status": "1.0.1",
     "combine-zips": "1.0.4",
     "bundle-size": "1.0.0",
     "gh-label": "1.0.0",
-    "gh-pr": "1.0.5",
+    "gh-pr": "1.0.6",
     "update-package-registry": "1.0.0",
-    "mq-automation": "1.0.0"
+    "mq-automation": "1.0.1"
 }
