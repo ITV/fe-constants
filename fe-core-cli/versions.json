@@ -1,7 +1,7 @@
 {
-    "fe-core": "2.4.69",
+    "fe-core": "2.4.70",
     "ci-log": "2.4.9",
-    "trigger-workflow": "2.4.5",
+    "trigger-workflow": "2.4.6",
     "trigger-failure": "2.4.8",
     "trigger-success": "2.4.4",
     "deps-tree": "2.4.12",
@@ -21,7 +21,7 @@
     "bundle-size": "1.0.0",
     "gh-label": "1.0.0",
     "gh-pr": "1.0.6",
-    "update-package-registry": "1.0.0",
+    "update-package-registry": "1.0.1",
     "mq-automation": "1.0.2",
     "mq-slack-notify": "1.0.0"
 }
