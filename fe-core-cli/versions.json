@@ -1,5 +1,5 @@
 {
-    "fe-core": "2.4.74",
+    "fe-core": "2.4.75",
     "ci-log": "2.4.9",
     "trigger-workflow": "2.4.6",
     "trigger-failure": "2.4.8",
@@ -22,6 +22,6 @@
     "gh-label": "1.0.0",
     "gh-pr": "1.0.6",
     "update-package-registry": "1.0.1",
-    "mq-automation": "1.0.4",
+    "mq-automation": "1.0.5",
     "mq-slack-notify": "1.0.0"
 }
