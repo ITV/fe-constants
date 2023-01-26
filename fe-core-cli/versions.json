@@ -1,9 +1,9 @@
 {
-    "fe-core": "2.4.83",
+    "fe-core": "2.4.84",
     "ci-log": "2.4.9",
-    "trigger-workflow": "2.4.6",
-    "trigger-failure": "2.4.8",
-    "trigger-success": "2.4.4",
+    "trigger-workflow": "2.4.7",
+    "trigger-failure": "2.4.9",
+    "trigger-success": "2.4.5",
     "deps-tree": "2.4.12",
     "gh-app": "2.4.5",
     "gh-create-jwt": "2.4.5",
