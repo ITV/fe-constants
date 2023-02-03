@@ -1,5 +1,5 @@
 {
-    "fe-core": "2.4.106",
+    "fe-core": "2.4.107",
     "ci-log": "2.4.9",
     "trigger-workflow": "2.4.7",
     "trigger-failure": "2.4.9",
@@ -28,5 +28,5 @@
     "gh-project": "1.0.0",
     "gh-repo": "1.0.0",
     "trigger-jenkins": "1.0.0",
-    "ctv-stable": "1.0.0"
+    "ctv-stable": "1.0.1"
 }
