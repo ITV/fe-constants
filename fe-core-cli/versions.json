@@ -1,5 +1,5 @@
 {
-    "fe-core": "2.4.125",
+    "fe-core": "2.4.126",
     "ci-log": "2.4.9",
     "trigger-workflow": "2.4.7",
     "trigger-failure": "2.4.9",
@@ -23,7 +23,7 @@
     "gh-pr": "1.0.17",
     "update-package-registry": "1.0.2",
     "mq-automation": "1.0.19",
-    "mq-slack-notify": "1.0.11",
+    "mq-slack-notify": "1.0.12",
     "splunk-sender": "1.0.4",
     "gh-project": "1.0.3",
     "gh-repo": "1.0.0",
@@ -31,5 +31,5 @@
     "ctv-stable": "1.0.1",
     "check-published-packages": "1.0.0",
     "mq-bot": "1.0.0",
-    "slack-bot": "1.0.0"
+    "slack-bot": "1.0.1"
 }
