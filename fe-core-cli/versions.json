@@ -1,5 +1,5 @@
 {
-    "fe-core": "2.4.187",
+    "fe-core": "2.4.188",
     "ci-log": "2.4.15",
     "trigger-workflow": "2.4.8",
     "trigger-failure": "2.4.9",
@@ -36,5 +36,5 @@
     "gha-usage": "1.0.0",
     "gh-discussion": "1.0.1",
     "gh-team": "1.0.0",
-    "ctv": "1.0.1"
+    "ctv": "1.0.2"
 }
