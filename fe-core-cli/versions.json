@@ -1,5 +1,5 @@
 {
-    "fe-core": "2.4.189",
+    "fe-core": "2.4.190",
     "ci-log": "2.4.15",
     "trigger-workflow": "2.4.8",
     "trigger-failure": "2.4.9",
@@ -8,7 +8,7 @@
     "gh-app": "2.4.5",
     "gh-create-jwt": "2.4.5",
     "gh-create-app-token": "2.4.6",
-    "gh-secret": "2.4.6",
+    "gh-secret": "2.4.7",
     "pr-comment": "2.4.6",
     "pnpm-release": "2.6.5",
     "verify-links": "2.4.11",
