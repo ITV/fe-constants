@@ -1,5 +1,5 @@
 {
-    "fe-core": "2.4.200",
+    "fe-core": "2.4.201",
     "ci-log": "2.4.18",
     "trigger-workflow": "2.4.8",
     "trigger-failure": "2.4.9",
@@ -14,7 +14,7 @@
     "verify-links": "2.4.14",
     "gh-pr-body": "1.0.4",
     "ephemeral-links": "1.0.9",
-    "cassandra-scripts": "1.0.13",
+    "cassandra-scripts": "1.0.14",
     "gh-release": "1.1.4",
     "gh-status": "1.0.10",
     "combine-zips": "1.0.7",
