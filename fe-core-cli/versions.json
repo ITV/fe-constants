@@ -1,5 +1,5 @@
 {
-    "fe-core": "2.4.202",
+    "fe-core": "2.4.203",
     "ci-log": "2.4.18",
     "trigger-workflow": "2.4.8",
     "trigger-failure": "2.4.9",
@@ -27,7 +27,7 @@
     "splunk-sender": "1.0.7",
     "gh-project": "1.0.11",
     "gh-repo": "1.0.3",
-    "trigger-jenkins": "1.0.5",
+    "trigger-jenkins": "1.0.6",
     "ctv-stable": "1.0.4",
     "check-published-packages": "1.0.3",
     "mq-bot": "1.0.5",
