@@ -1,5 +1,5 @@
 {
-    "fe-core": "2.4.206",
+    "fe-core": "2.4.207",
     "ci-log": "2.4.18",
     "trigger-workflow": "2.4.8",
     "trigger-failure": "2.4.9",
@@ -38,5 +38,6 @@
     "gh-team": "1.0.3",
     "ctv": "1.0.6",
     "pr-reviews": "1.0.0",
-    "first-response": "1.0.0"
+    "first-response": "1.0.0",
+    "check-packs": "1.0.0"
 }
