@@ -1,5 +1,5 @@
 {
-    "fe-core": "2.4.232",
+    "fe-core": "2.4.233",
     "ci-log": "2.4.18",
     "trigger-workflow": "2.4.8",
     "trigger-failure": "2.4.9",
@@ -20,7 +20,7 @@
     "combine-zips": "1.0.8",
     "bundle-size": "1.1.0",
     "gh-label": "1.0.4",
-    "gh-pr": "1.1.1",
+    "gh-pr": "1.1.2",
     "update-package-registry": "1.0.4",
     "mq-automation": "1.0.39",
     "mq-slack-notify": "1.0.19",
