@@ -1,5 +1,5 @@
 {
-    "fe-core": "2.4.239",
+    "fe-core": "2.4.240",
     "ci-log": "2.4.19",
     "trigger-workflow": "2.4.8",
     "trigger-failure": "2.4.9",
@@ -22,7 +22,7 @@
     "gh-label": "1.0.5",
     "gh-pr": "1.1.3",
     "update-package-registry": "1.0.5",
-    "mq-automation": "1.0.41",
+    "mq-automation": "1.0.42",
     "mq-slack-notify": "1.0.21",
     "splunk-sender": "1.0.8",
     "gh-project": "1.1.1",
