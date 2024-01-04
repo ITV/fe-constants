@@ -1,5 +1,5 @@
 {
-    "fe-core": "2.4.247",
+    "fe-core": "2.4.248",
     "ci-log": "2.4.19",
     "trigger-workflow": "2.4.8",
     "trigger-failure": "2.4.9",
@@ -32,7 +32,7 @@
     "check-published-packages": "1.0.4",
     "mq-bot": "2.1.1",
     "slack-bot": "1.0.10",
-    "gh-user": "1.0.21",
+    "gh-user": "1.0.22",
     "gha-usage": "1.0.0",
     "gh-discussion": "1.0.5",
     "gh-team": "1.0.4",
