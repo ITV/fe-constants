@@ -1,5 +1,5 @@
 {
-    "fe-core": "2.4.271",
+    "fe-core": "2.4.272",
     "ci-log": "2.4.20",
     "trigger-workflow": "2.4.9",
     "trigger-failure": "2.4.10",
@@ -41,5 +41,5 @@
     "first-response": "1.0.0",
     "check-packs": "1.0.3",
     "proxy-apps": "1.1.4",
-    "tree-shaking": "1.0.1"
+    "tree-shaking": "1.0.2"
 }
