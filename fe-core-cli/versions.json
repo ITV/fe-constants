@@ -1,5 +1,5 @@
 {
-    "fe-core": "2.4.318",
+    "fe-core": "2.4.319",
     "ci-log": "2.4.20",
     "trigger-workflow": "2.4.9",
     "trigger-failure": "2.4.10",
