@@ -1,0 +1,7 @@
+---
+version: 1
+ownership:
+  - paths:
+      - "*"
+    owners:
+      - "@ITV/fe-og-devx"
