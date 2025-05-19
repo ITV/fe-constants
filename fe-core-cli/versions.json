@@ -1,10 +1,10 @@
 {
-    "fe-core": "2.6.5",
+    "fe-core": "2.6.6",
     "ci-log": "2.5.5",
     "trigger-workflow": "2.5.5",
     "trigger-failure": "2.5.5",
     "trigger-success": "2.5.5",
-    "deps-tree": "2.5.5",
+    "deps-tree": "2.5.6",
     "gh-app": "2.5.5",
     "gh-create-jwt": "2.5.5",
     "gh-create-app-token": "2.5.5",
