@@ -1,5 +1,5 @@
 {
-    "fe-core": "3.0.10",
+    "fe-core": "3.0.11",
     "ci-log": "2.5.5",
     "trigger-workflow": "2.5.5",
     "trigger-failure": "2.5.5",
@@ -31,7 +31,7 @@
     "ctv-stable": "1.1.5",
     "check-published-packages": "1.1.5",
     "mq-bot": "2.2.5",
-    "slack-bot": "1.1.7",
+    "slack-bot": "1.1.8",
     "gh-user": "2.1.5",
     "gha-usage": "1.1.1",
     "gh-discussion": "1.1.5",
