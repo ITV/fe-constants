@@ -1,6 +1,6 @@
 {
-    "fe-core": "3.4.2",
-    "ci-log": "2.5.5",
+    "fe-core": "3.4.3",
+    "ci-log": "3.0.0",
     "trigger-workflow": "2.5.5",
     "trigger-failure": "2.5.5",
     "trigger-success": "2.5.5",
